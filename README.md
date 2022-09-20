@@ -1,5 +1,5 @@
 # Nakyeong Lee
-###### 멋쟁이사자처럼 10기 BACKEND
+#### 멋쟁이사자처럼 10기 BACKEND
 
 #### 🎓 Education
 * 서울잠원초등학교
