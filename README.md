@@ -1,16 +1,6 @@
 # Nakyeong Lee
 ###### 멋쟁이사자처럼 10기 BACKEND
 
-#### 💞️ ABSOLUTELY in LOVE w.
-- Classics🎼    
-- Tea🍵   
-- Books📖
-
-#### 🌱 Currently learning
-- Spanish
-- re-learning German
-- Python on *LiKELION*
-
 #### 🎓 Education
 * 서울잠원초등학교
 * 방배중학교
