@@ -1,15 +1,12 @@
 # Nakyeong Lee
-#### 멋쟁이사자처럼 10기 BACKEND
+#### 이화여대 멋쟁이사자처럼 10기 BACKEND
+#### 이화여대 멋쟁이사자처럼 11기 BACKEND
 
-#### 🎓 Education
-* 서울잠원초등학교
-* 방배중학교
-* 이화여자외국어고등학교   
-      *Major in German*
 * 이화여자대학교   
       *Division of Mechanical & Biomedical Engineering*
 
 #### 📫 Contact
-* **Call** 010-3102-2528
-* **Instagram** @2.or_kng
 * **E-Mail** rinarina0429@naver.com
+
+
+<a href="https://www.instagram.com/2.or_kng/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
