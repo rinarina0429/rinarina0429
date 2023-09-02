@@ -29,6 +29,7 @@
 
 #### 🖤 Contact
 <a href="mailto:forrina0429@gmail.com" target="_blank"><img src="https://img.shields.io/badge/forrina0429-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@rinarina0429" target="_blank"><img src="https://img.shields.io/badge/rinarina0429-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/2.or_kng/" target="_blank"><img src="https://img.shields.io/badge/2.or_kng-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frinarina0429&count_bg=%23662A00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👀&edge_flat=true)](https://hits.seeyoufarm.com)
