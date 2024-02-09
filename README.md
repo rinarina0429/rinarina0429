@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Nakyeong%20Lee&height=180&fontColor=662A00&fontSize=80&fontAlign=35&fontAlignY=45&stroke=662A00&strokeWidth=3&desc=Web%20Backend%20Developer&descSize=30&descAlign=23.5&descAlignY=85&color=0065B0&animation=fadeIn&section=header)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Nakyeong%20Lee&height=180&fontColor=662A00&fontSize=80&fontAlign=35&fontAlignY=45&stroke=662A00&strokeWidth=3&desc=Backend%20Developer&descSize=30&descAlign=23.5&descAlignY=85&color=0065B0&animation=fadeIn&section=header)
 
 <img align="left" width="150" src="https://github.com/CheerCharm/CheerCharm_Back/assets/101031854/aec639d4-e5a4-4448-a30f-99e23a560e21">
 
@@ -8,7 +8,7 @@
 <br/>
 
 #### EWHA.W.UNIV.
-*Division of Mechanical & Biomedical Engineering*
+*Computer Science & Engineering*
 <br/>
 
 #### 🤎 I've been...
