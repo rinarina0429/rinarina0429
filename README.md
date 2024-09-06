@@ -24,13 +24,14 @@
 | 2024.01 - | <a>웹소소 websoso</a> | <a href="https://github.com/Team-WSS/WSS-Server">WSS-Server</a> |
 | 2023.04 - 2023.05 | <a href="https://2023-ewha-festival.vercel.app">2023 이화여대 대동제 이웃</a> | <a href="https://github.com/EWHA-LIKELION/11th-Ewha-Festival-Back">11th-Ewha-Festival-Back</a> |
 | 2023.01 - 2023.02 | <a href="https://cheer-charm.swygbro.com">응원이 부적해</a> | <a href="https://github.com/CheerCharm/CheerCharm_Back">CheerCharm_Back</a> |
-| 2022.09 | <a href="https://rewha.swygbro.com">2022 이화여대 대동제 Re:wha</a> | <a href="https://github.com/EWHA-LIKELION/10th-Ewha-Festival-Back">10th-Ewha-Festival-Back</a> |
+| 2022.09 - 2022.09 | <a href="https://rewha.swygbro.com">2022 이화여대 대동제 Re:wha</a> | <a href="https://github.com/EWHA-LIKELION/10th-Ewha-Festival-Back">10th-Ewha-Festival-Back</a> |
 | 2022.07 - 2022.08 | <a>너낼역</a> | <a href="https://github.com/NNAERYEOK/NNY-Back">NNY-Back</a> |
 
 #### 🤍 Tech Stack
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JAVA-A8B9CC?style=flat&logo=JAVA&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
