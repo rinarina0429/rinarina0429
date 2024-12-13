@@ -14,15 +14,15 @@
 #### 🤎 I've been...
 | PERIOD | ORGANIZATION | STATUS |
 | ------- | ------- | -------|
-| 2022.03 - 2023.01 | 이화여대 멋쟁이사자처럼 10기 | 백엔드 아기사자 |
-| 2023.03 - 2024.01 | 이화여대 멋쟁이사자처럼 11기 | 백엔드 운영진 |
-| 2023.09 - 2024.02 | DO SOPT 33기 | 서버 YB |
 | 2024.09 - 2025.06 | GDG on Campus | Backend |
+| 2023.09 - 2024.02 | DO SOPT 33기 | 서버 YB |
+| 2023.03 - 2024.01 | 이화여대 멋쟁이사자처럼 11기 | 백엔드 운영진 |
+| 2022.03 - 2023.01 | 이화여대 멋쟁이사자처럼 10기 | 백엔드 아기사자 |
 
 #### 💙 Project
 | PERIOD | TITLE | REPO |
 | ------- | ------- | -------|
-| 2024.01 - | <a>웹소소 websoso</a> | <a href="https://github.com/Team-WSS/WSS-Server">WSS-Server</a> |
+| 2024.01 - | <a href="https://www.websoso.kr/">웹소소 websoso</a> | <a href="https://github.com/Team-WSS/WSS-Server">WSS-Server</a> |
 | 2023.04 - 2023.05 | <a href="https://2023-ewha-festival.vercel.app">2023 이화여대 대동제 이웃</a> | <a href="https://github.com/EWHA-LIKELION/11th-Ewha-Festival-Back">11th-Ewha-Festival-Back</a> |
 | 2023.01 - 2023.02 | <a href="https://cheer-charm.swygbro.com">응원이 부적해</a> | <a href="https://github.com/CheerCharm/CheerCharm_Back">CheerCharm_Back</a> |
 | 2022.09 - 2022.09 | <a href="https://rewha.swygbro.com">2022 이화여대 대동제 Re:wha</a> | <a href="https://github.com/EWHA-LIKELION/10th-Ewha-Festival-Back">10th-Ewha-Festival-Back</a> |
